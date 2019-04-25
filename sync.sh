@@ -1,6 +1,6 @@
 
 ss=$1
-MY_REPO=shidaqiu
+MY_REPO=zengyuxiu
 interval=.
 max_per=70
 google_list=repo/google
