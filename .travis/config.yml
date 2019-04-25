@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"cf2c15117f0df79c3e512e02a266e1a8"'
+  version: 1.8.9
+  at: 1556182991
+checked_completion: true
+completion_version: 1.8.9
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: 23OFS_7aIfZ2lbNhK5tMgA
+repos:
+  zengyuxiu/gcr_sync:
+    endpoint: https://api.travis-ci.org/
